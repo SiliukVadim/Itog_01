@@ -1,0 +1,15 @@
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.csproj.AssemblyReference.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.AssemblyInfoInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.AssemblyInfo.cs
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.csproj.CoreCompileInputs.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\bin\Debug\net7.0\Itog.exe
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\bin\Debug\net7.0\Itog.deps.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\bin\Debug\net7.0\Itog.runtimeconfig.json
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\bin\Debug\net7.0\Itog.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\bin\Debug\net7.0\Itog.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\refint\Itog.dll
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.pdb
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\Itog.genruntimeconfig.cache
+C:\Users\Kat\Desktop\обучение_В\EducationC#1\Educationc-\Homeworks\Itog\obj\Debug\net7.0\ref\Itog.dll
